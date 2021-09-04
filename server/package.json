@@ -1,0 +1,16 @@
+{
+  "name": "react-native-webrtc-server",
+  "version": "0.0.1",
+  "description": "react-native-webrtc server",
+  "main": "app.js",
+  "scripts": {
+    "start": "LOCAL=TRUE node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "open": "0.0.5",
+    "socket.io": "^4.2.0"
+  }
+}
